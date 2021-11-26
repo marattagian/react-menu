@@ -12,7 +12,7 @@ const menu = [
     title: 'diner double',
     category: 'lunch',
     price: 13.99,
-    img: './images/item-2.jpeg',
+    img: 'https://images.pexels.com/photos/1640770/pexels-photo-1640770.jpeg?cs=srgb&dl=pexels-ella-olsson-1640770.jpg&fm=jpg',
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: 'godzilla milkshake',
     category: 'shakes',
     price: 6.99,
-    img: './images/item-3.jpeg',
+    img: 'https://images.unsplash.com/photo-1541658016709-82535e94bc69?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80',
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: 'country delight',
     category: 'breakfast',
     price: 20.99,
-    img: './images/item-4.jpeg',
+    img: 'https://images.unsplash.com/photo-1496042399014-dc73c4f2bde1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
     desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: 'egg attack',
     category: 'lunch',
     price: 22.99,
-    img: './images/item-5.jpeg',
+    img: 'https://images.unsplash.com/photo-1590835856923-cf452a6d8da7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fGVnZyUyMGF0YWNrfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60',
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: 'oreo dream',
     category: 'shakes',
     price: 18.99,
-    img: './images/item-6.jpeg',
+    img: 'https://images.unsplash.com/photo-1623548694299-c3eb13a26c5b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80',
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: 'bacon overflow',
     category: 'breakfast',
     price: 8.99,
-    img: './images/item-7.jpeg',
+    img: 'https://images.unsplash.com/photo-1606851571255-578bad52187f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YmFjb258ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: 'american classic',
     category: 'lunch',
     price: 12.99,
-    img: './images/item-8.jpeg',
+    img: 'https://images.unsplash.com/photo-1618219877704-18411f61719d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGFtZXJpY2FuJTIwbHVuY2h8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60',
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
   },
   {
@@ -68,7 +68,7 @@ const menu = [
     title: 'quarantine buddy',
     category: 'shakes',
     price: 16.99,
-    img: './images/item-9.jpeg',
+    img: 'https://images.unsplash.com/photo-1475090169767-40ed8d18f67d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
 ]
